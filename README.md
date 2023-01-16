@@ -1,6 +1,4 @@
 # Portfolio-Website
- A Portfolio Website for you.
+ A Portfolio Website for a developer
  
- Demo - https://het-delwadiya.github.io/Portfolio-Website/
- 
- I will update it and add more things in future. If you want to update it, feel free to do it. 
+ Demo - https://hetdelwadiya.dev/projects/portfolio-website/
